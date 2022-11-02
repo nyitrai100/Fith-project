@@ -1,3 +1,36 @@
 body{
     background-color: white;
+    margin-right:10px;
+    margin-left: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px100px;
+}
+.gridholder{
+    display: grid;
+    grid-template-columns: auto;
+}
+.flexholder{
+    display: flex;
+    flex-direction: column;
+}
+
+.flexholder2{
+    display: flex;
+    flex-direction: column;
+}
+.block1{
+    width:200px; 
+    text-align: center;
+    justify-content: center;
+    margin-left: 75px;
+}
+.block2{
+    width:290px;
+    text-align: center;
+    margin-left: 30px;
+    font-size: medium;
+    line-height: 25px;
+}
+.block3{
+    
 }
