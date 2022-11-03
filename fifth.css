@@ -188,13 +188,16 @@ body{
 @media  only screen and (min-width: 1439px)
     {
         body{
-            background-color: black;
+            background-image: url("background.svg");
         }
         .flexholder{
             
             display: grid;
-            grid-template-rows: 1fr 1fr;
+            grid-template-columns: 1fr 1fr;
             grid-template-rows: 0.1fr 0.1fr 0.1fr;
+            border: 2px solid black;
+            width: 1414px;
+            margin-top: 150px;
         }
         .block1{
             display: grid;
@@ -216,6 +219,8 @@ body{
             grid-column-end: 2;
             grid-row-start: 1;
             grid-row-end: 1;
+            height: 100px;
+            
         }
         .block4{
             display: grid;
@@ -223,6 +228,9 @@ body{
             grid-column-end: 2;
             grid-row-start: 2;
             grid-row-end: 2;
+            height: 100px;
+            margin-top: -50px;
+            
         }
         .block5{
             display: grid;
@@ -230,12 +238,23 @@ body{
             grid-column-end: 2;
             grid-row-start: 3;
             grid-row-end: 3;
+            height: 100px;
+            margin-top: -60px;
         }
         .flexholder2{
             
             display: grid;
-            grid-template-rows: 1fr 1fr 1fr;
+            grid-template-columns: 1fr 1fr 1fr;
             grid-template-rows: 1fr;
+            border: 2px solid black;
+            margin-top: 250px;
+            padding-right: 250px;
+            width: 1160px;
+            height: 500px;
+            
+            
+            
+            
 
         }
         .block6{
@@ -244,20 +263,33 @@ body{
             grid-column-end: 1;
             grid-row-start: 1;
             grid-row-end: 1;
+            width:430px;
+            height: 350px;
+            margin-left: 30px;
+            
         }
         .block7{
             display: grid;
+            
             grid-column-start: 2;
             grid-column-end: 2;
             grid-row-start: 2;
             grid-row-end: 2;
+            width: 430px;
+            margin-top: -425px;
+            height: 350px;
         }
         .block8{
+          
             display: grid;
             grid-column-start: 3;
             grid-column-end: 3;
             grid-row-start: 3;
             grid-row-end: 3;
+            margin-top: -400px;
+            height:350px;
+            width: 430px;
+            
             
         }
         
