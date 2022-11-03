@@ -218,8 +218,8 @@ body{
             grid-row-start: 2;
             grid-row-end: 2;
             margin-bottom: -200px;
-            font-size: 30px;
-            width: 700px;
+            font-size: 25px;
+            width: 600px;
             text-align: left;
             line-height: 45px;
             margin-left: 50px;
@@ -331,6 +331,24 @@ body{
             margin-left: 30px;
             
         }
+        #imgcolton{
+            margin-left: 60px;
+            margin-top: 60px;
+        }
+        #colton{
+            margin-left: 160px;
+            margin-top: -60px;
+            font-size: 20px;
+            width: 130px;
+        }
+        #pcolton{
+            font-size: 20px;
+            width: 340px;
+            line-height: 30px;
+            margin-left: 60px;
+        }
+
+
         .block7{
             display: grid;
             
@@ -342,6 +360,24 @@ body{
             margin-top: -425px;
             height: 350px;
         }
+        #imgirene{
+            margin-left: 60px;
+            margin-top: 60px;
+        }
+        #irene{
+            margin-left: 160px;
+            margin-top: -60px;
+            font-size: 20px;
+            width: 130px;
+        }
+        #pirene{
+            font-size: 20px;
+            width: 320px;
+            line-height: 30px;
+            margin-left: 60px;
+        }
+
+
         .block8{
           
             display: grid;
@@ -354,6 +390,23 @@ body{
             width: 430px;
             
             
+        }
+
+        #imganne{
+            margin-left: 60px;
+            margin-top: 60px;
+        }
+        #anne{
+            margin-left: 160px;
+            margin-top: -60px;
+            font-size: 20px;
+            width: 130px;
+        }
+        #panne{
+            font-size: 20px;
+            width: 340px;
+            line-height: 30px;
+            margin-left: 60px;
         }
         
         
