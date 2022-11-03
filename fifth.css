@@ -5,10 +5,7 @@ body{
     margin-top: 40px;
     margin-bottom: 60px;
 }
-.gridholder{
-    display: grid;
-    grid-template-columns: auto;
-}
+
 .flexholder{
     display: flex;
     flex-direction: column;
