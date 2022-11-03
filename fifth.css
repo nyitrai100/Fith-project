@@ -259,10 +259,26 @@ body{
             grid-column-end: 2;
             grid-row-start: 2;
             grid-row-end: 2;
-            height: 100px;
-            margin-top: -50px;
+            margin-top: -120px;
+            height: 60px;
+            margin-left:-570px;
+            width: 450px;
             
         }
+        #stars2{
+        
+            margin-left: -300px; 
+            margin-top: 5px; 
+
+
+        }
+
+        #pstar2{
+            margin-left: 90px;
+            margin-top: -30px;
+            font-size: 20px;
+        }
+
         .block5{
             display: grid;
             grid-column-start: 2;
@@ -270,7 +286,23 @@ body{
             grid-row-start: 3;
             grid-row-end: 3;
             height: 100px;
-            margin-top: -60px;
+            margin-top: -20px;
+            height: 60px;
+            margin-left:-540px;
+            width: 450px;
+        }
+        #stars3{
+        
+            margin-left: -300px; 
+            margin-top: 5px; 
+
+
+        }
+
+        #pstar3{
+            margin-left: 90px;
+            margin-top: -30px;
+            font-size: 20px;
         }
         .flexholder2{
             
