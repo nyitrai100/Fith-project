@@ -185,7 +185,7 @@ body{
 }
 
 /*destop view*/
-@media  only screen and (min-width: 1440px)
+@media  only screen and (min-width: 1439px)
     {
         body{
             background-color: black;
